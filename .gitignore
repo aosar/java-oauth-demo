@@ -1,0 +1,18 @@
+
+*/bin/*
+bin/
+
+*.class
+
+# Package Files #
+*.jar
+
+# VSCode
+.vscode/
+
+# Maven
+log/*
+target/
+
+# Config
+src/main/resources/*.yml
